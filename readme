@@ -1,0 +1,21 @@
+Team details:
+Aakarsh Jain    PES2UG20CS004
+Aditi Jain      PES2UG20CS021
+Amisha Mathew   PES2UG20CS038
+Amrita Patra    PES2UG20CS040
+
+Commands to run the code in local terminal:
+
+sudo apt-get update
+# For Sql-client
+sudo apt-get install mysql-client
+
+# For python and related frameworks
+
+sudo apt-get install python3
+sudo apt-get install python3-flask
+sudo apt-get install python3-pymysql
+sudo apt-get install python3-boto3
+
+# for running application
+sudo python3 Empapp.py
